@@ -1,6 +1,7 @@
 import RedirectButton from "./components/RedirectButton"
 import BackgroundImage from "./components/BackgroundImage"
 import MarqueeComments from "./components/MarqueeComments"
+import { Analytics } from "@vercel/analytics/react"
 
 export default function Home() {
   return (
