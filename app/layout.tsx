@@ -3,21 +3,6 @@ import "./globals.css"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import { Analytics } from '@vercel/analytics/next';
-
-import { track } from '@vercel/analytics';
- 
-function SignupButton() {
-  return (
-    <button
-      onClick={() => {
-        track('RedirectButton');
-        // ... other logic
-      }}
-    >
-      Sign Up
-    </button>
-  );
-}
  
 export default function RootLayout({
   children,
