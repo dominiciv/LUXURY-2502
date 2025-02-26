@@ -4,17 +4,62 @@ const comments = [
   {
     name: "Carlos",
     message: "Cargué y gané 550.000 pesos",
-    time: "Hace 2 min",
+    time: "Hace 12 min",
   },
   {
     name: "Maria",
     message: "La mejor plataforma para apostar!",
-    time: "Hace 5 min",
+    time: "Hace 25 min",
   },
   {
     name: "José",
     message: "Muy buena atención de las cajeras, las amo!",
-    time: "Hace 8 min",
+    time: "Hace 38 min",
+  },
+  {
+    name: "Federico",
+    message: "Gané y cobré enseguida, increible!",
+    time: "Hace 45 min",
+  },
+  {
+    name: "Sofia",
+    message: "Pagan rapido, muy buena red",
+    time: "Hace 4 hs",
+  },
+  {
+    name: "Baltazar",
+    message: "Tiene muy buenos juegos",
+    time: "Hace 5 hs",
+  },
+  {
+    name: "Camila",
+    message: "Saqué maxwin y retiré",
+    time: "Hace 6 hs",
+  },
+  {
+    name: "Alberto",
+    message: "Juego siempre y nunca fallan",
+    time: "Hace 6 hs",
+  },
+  {
+    name: "Cecilia",
+    message: "La cajera trae suerte jaja",
+    time: "Hace 7 hs",
+  },
+  {
+    name: "Dylan",
+    message: "Sin vueltas para comprar, la mejor",
+    time: "Hace 8 hs",
+  },
+  {
+    name: "Benedicto",
+    message: "Gracias al bono saqué maxwin",
+    time: "Hace 8 hs",
+  },
+  {
+    name: "Marcelo",
+    message: "Comenté y me dieron bono juaa",
+    time: "Hace 9 hs",
   },
 ]
 
