@@ -1,5 +1,4 @@
-
-export default function BackgroundImage() {
+export default function BackgroundImage({ videoUrl }) {
   return (
     <div className="absolute inset-0 z-0">
       <video
@@ -9,7 +8,7 @@ export default function BackgroundImage() {
         playsInline
         className="w-full h-full object-cover"
       >
-        <source src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/video.mp4" type="video/mp4" />
+        <source src={https://www.youtube.com/watch?v=vHp-TL8QffM} type="video/mp4" />
         Tu navegador no soporta videos.
       </video>
     </div>
