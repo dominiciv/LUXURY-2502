@@ -8,7 +8,7 @@ export default function BackgroundImage({ videoUrl }) {
         playsInline
         className="w-full h-full object-cover"
       >
-        <source src={https://www.youtube.com/watch?v=vHp-TL8QffM} type="video/mp4" />
+        <source src= https://www.youtube.com/watch?v=vHp-TL8QffM type="video/mp4" />
         Tu navegador no soporta videos.
       </video>
     </div>
