@@ -100,10 +100,10 @@ body {
 }
 
 .animate-marquee-slow {
-  animation: marquee 30s linear infinite;
+  animation: marquee 60s linear infinite;
 }
 
 .animate-marquee2-slow {
-  animation: marquee 30s linear infinite;
+  animation: marquee 60s linear infinite;
 }
 
