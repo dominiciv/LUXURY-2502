@@ -10,7 +10,7 @@ export default function Home() {
       <div className="z-10 text-center space-y-8">
         <RedirectButton />
         <div className="space-y-6">
-          <p className="text-white text-xl font-bold text-stroke">Carga mínima: $1.500</p>
+          <p className="text-white text-xl font-bold text-stroke">🍀🍀🍀BUENA SUERTE🍀🍀🍀</p>
           <MarqueeComments />
         </div>
       </div>
